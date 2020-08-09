@@ -46,4 +46,4 @@ There are many mistakes that I realized too late to fix in this current iteratio
 4. Predict more information. Either use another model to predict specific 'sub-label' classes, or make this one do so.
 5. Incorporate input from annotators. Create a feedback loop using the web app to incorporate error reporting from trusted annotators.
 6. Try it on other languages. Why not?
-7. Make web app pretty. <a href="https://dsir-tagger.herokuapp.com/" target="_blank">Tagger web app</a>https://dsir-tagger.herokuapp.com/
+7. Make web app pretty. <a href="https://dsir-tagger.herokuapp.com/" target="_blank">Tagger web app</a>
